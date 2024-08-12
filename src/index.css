@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+}
+#root {
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(#242422, #000000 80%);
+}
+.bg-accent {
+  background: radial-gradient(#bada55, #efefef 80%);
+}
