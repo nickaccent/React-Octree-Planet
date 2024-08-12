@@ -9,7 +9,10 @@ Currently, two official plugins are available:
 
 ### Controls
 
-Full Stop/Period: Accelerate,
+Full Stop/Period: Accelerate
+
 Comma: Reverse
+
 W/S: Up/Down
+
 A/D: Left/Right
